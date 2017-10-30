@@ -3,6 +3,7 @@
 ## 技术栈
 
 vue2 + vuex +vue-router +webpack +ES67 + vue-resource + store + lodash
+
 ### 说明
 
 vue-resource:进行http请求
